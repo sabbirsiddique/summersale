@@ -51,3 +51,7 @@ function handleClick(target) {
         makePurchaseButton.style.backgroundColor = "gray";
     }
 }
+
+function homePage() {
+    window.location.assign("index.html")
+  }
